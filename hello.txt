@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 在vscode已修改*2
+=======
+在vscode已修改
+>>>>>>> 6c9ee7647009f7e2603de2cc0abe0d97f8f94f4c
